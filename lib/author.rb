@@ -1,3 +1,3 @@
-class author 
+class author
 
 end
